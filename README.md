@@ -1,13 +1,15 @@
-### Hello, World 👋
-<hr>
+### Hello, World 👋🏾
 
-#### I'm Sarah Rúbia
+<h3 align="center">I'm Sarah Rúbia</h3>
+<p align="center">✊🏾 🌈 ♀</p>
+
 
 - 🔭 I’m currently working on a career transition to become a **Full Stack Web Developer**.
 - 🌱 I’m currently learning **HTML** and **CSS**.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
 - 📫 How to reach me: https://www.linkedin.com/in/sarahrubia/
+
 <hr>
 
 <details>
@@ -20,6 +22,12 @@
   | Introduction to Data Science          | Data Science Academy      | 8     |
 
 </details>
+
+<hr>
+
+#### Hoping to learn with everyone! Let's code, shall we?
+
+![Cat coding](https://media1.giphy.com/media/pOKrXLf9N5g76/giphy.gif)
   
 <!--
 **sarahrubia/sarahrubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
