@@ -1,7 +1,7 @@
 ### Hello, World 👋🏾
 
-<h3 align="center">I'm Sarah Rúbia</h3>
-<p align="center">✊🏾 🌈 ♀</p>
+I'm Sarah Rúbia
+✊🏾 🌈 ♀
 
 
 - 🔭 I’m currently working on a career transition to become a **Full Stack Web Developer**.
