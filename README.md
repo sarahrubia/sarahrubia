@@ -17,6 +17,7 @@ I'm Sarah Rúbia
   
   | **Course/Workshop**                       | **Place**                     | **Hours** |
   |---------------------------------------|---------------------------|-------|
+  | Responsive Web Design Certification   | FreeCodeCamp              | 300   |
   | PicPro Project - HTML, CSS and JS     | PicPay and Kenzie Academy | 30    |
   | Module 1: Prep + Welcome to Dev World | Newtab Academy            | 12    |
   | Introduction to Data Science          | Data Science Academy      | 8     |
