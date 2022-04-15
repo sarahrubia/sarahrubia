@@ -8,7 +8,8 @@ I'm Sarah Rúbia
 - 🌱 I’m currently learning **HTML** and **CSS**.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
-- 📫 How to reach me: https://www.linkedin.com/in/sarahrubia/
+- 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sarahrubia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sarahrubia?trk=profile-badge">Linkedin</a></div>
+              
 
 <hr>
 
