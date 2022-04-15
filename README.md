@@ -5,7 +5,7 @@ I'm Sarah Rúbia
 
 
 - 🔭 I’m currently working on a career transition to become a **Full Stack Web Developer**.
-- 🌱 I’m currently learning **HTML** and **CSS**.
+- 🌱 I’m currently learning **JavaScript**.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
 - 📫 How to reach me: https://www.linkedin.com/in/sarahrubia/
