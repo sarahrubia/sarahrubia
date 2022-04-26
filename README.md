@@ -5,7 +5,7 @@ I'm Sarah Rúbia
 
 
 - 🔭 I’m currently working on a career transition to become a **Full Stack Web Developer**.
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 I’m currently learning **React**.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
 - 📫 How to reach me: https://www.linkedin.com/in/sarahrubia/
@@ -18,10 +18,12 @@ I'm Sarah Rúbia
   
   | **Course/Workshop**                       | **Place**                     | **Hours** |
   |---------------------------------------|---------------------------|-------|
-  | Responsive Web Design Certification   | FreeCodeCamp              | 300   |
-  | PicPro Project - HTML, CSS and JS     | PicPay and Kenzie Academy | 30    |
-  | Module 1: Prep + Welcome to Dev World | Newtab Academy            | 12    |
-  | Introduction to Data Science          | Data Science Academy      | 8     |
+  | Module 3: Client Side Language and Professional Profile Construction  | Newtab Academy            | 80    |
+  | Module 2: Web Base and Behavioral Profile                             | Newtab Academy            | 48    |
+  | Responsive Web Design Certification                                   | FreeCodeCamp              | 300   |
+  | PicPro Project - HTML, CSS and JS                                     | PicPay and Kenzie Academy | 30    |
+  | Module 1: Prep + Welcome to Dev World                                 | Newtab Academy            | 12    |
+  | Introduction to Data Science                                          | Data Science Academy      | 8     |
 
 </details>
 
