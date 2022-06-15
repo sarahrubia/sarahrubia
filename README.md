@@ -18,8 +18,9 @@ I'm Sarah Rúbia
   
   | **Course/Workshop**                       | **Place**                     | **Hours** |
   |---------------------------------------|---------------------------|-------|
+  | Module 4: TypeScript and React + Employee Selection Process Preparation  | Newtab Academy            | 105    |
   | Module 3: Client Side Language and Professional Profile Construction  | Newtab Academy            | 80    |
-  | Module 2: Web Base and Behavioral Profile                             | Newtab Academy            | 48    |
+  | Module 2: Web Basis and Behavioral Profile                             | Newtab Academy            | 48    |
   | Responsive Web Design Certification                                   | FreeCodeCamp              | 300   |
   | PicPro Project - HTML, CSS and JS                                     | PicPay and Kenzie Academy | 30    |
   | Module 1: Prep + Welcome to Dev World                                 | Newtab Academy            | 12    |
