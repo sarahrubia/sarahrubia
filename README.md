@@ -1,6 +1,6 @@
-### Hello, World 👋🏾
+# About Me
 
-I'm Sarah Rúbia
+Hello, I'm Sarah Rúbia.
 ✊🏾 🌈 ♀
 
 
@@ -8,13 +8,26 @@ I'm Sarah Rúbia
 - 🌱 I’m currently learning **React**.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
-- 📫 How to reach me: https://www.linkedin.com/in/sarahrubia/
+- 📫 How to reach me: https://linkedin.com/in/sarahrubia
               
-
 <hr>
 
+# Tech Stack
+
+### Technologies (Languages, tools and softwares)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
+# Courses and Workshops
+
 <details>
-  <summary>Courses and Workshops List</summary>
+  <summary>Click here to see more</summary>
   
   | **Course/Workshop**                       | **Place**                     | **Hours** |
   |---------------------------------------|---------------------------|-------|
@@ -29,6 +42,7 @@ I'm Sarah Rúbia
 </details>
 
 <hr>
+
 
 #### Hoping to learn with everyone! Let's code, shall we?
 
