@@ -26,8 +26,6 @@ Hello, I'm Sarah Rúbia.
 
 # Courses and Workshops
 
-<details>
-  <summary>Click here to see more</summary>
   
   | **Course/Workshop**                       | **Place**                                               | **Hours** |
   |-----------------------------------------------------------------------------|---------------------------|-------|
@@ -40,7 +38,6 @@ Hello, I'm Sarah Rúbia.
   | Module 1: Prep + Welcome to Dev World                                       | Newtab Academy            | 12    |
   | Introduction to Data Science                                                | Data Science Academy      | 8     |
 
-</details>
 
 <hr>
 
