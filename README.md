@@ -28,6 +28,7 @@ Hello, I'm Sarah Rúbia.
   
   | **Course/Workshop**                       | **Place**                                               | **Hours** |
   |-----------------------------------------------------------------------------|---------------------------|-------|
+  | Web Development Imersion - Front-End                                        | Newtab Academy            | 240   |
   | Module 4.2: Team Project and Agile Methodologies + Test Driven Development  | Newtab Academy            | 80    |
   | Module 4.1: TypeScript and React + Employee Selection Process Preparation   | Newtab Academy            | 105   |
   | Module 3: Client Side Language and Professional Profile Construction        | Newtab Academy            | 80    |
