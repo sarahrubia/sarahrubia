@@ -8,8 +8,7 @@ Hello, I'm Sarah Rúbia.
 - 🌱 I’m currently learning **PHP**.
 - 😄 Pronouns: she/her.
 - 📫 How to reach me: https://linkedin.com/in/sarahrubia
-              
-<hr>
+
 
 # Tech Stack
 
@@ -26,11 +25,10 @@ Hello, I'm Sarah Rúbia.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 
-<hr>
 
+# Github Stats
 [![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=sarahrubia&theme=blue-green)](https://github.com/sarahrubia/github-readme-stats)
 
-<hr>
 
 # Courses and Workshops
 
@@ -48,9 +46,7 @@ Hello, I'm Sarah Rúbia.
   | Module 1: Prep + Welcome to Dev World                                       | Newtab Academy            | 12    |
   | Introduction to Data Science                                                | Data Science Academy      | 8     |
 
-
 <hr>
-
 
 #### Hoping to learn with everyone! Let's code!
 
