@@ -7,7 +7,6 @@ Hello, I'm Sarah Rúbia.
 - 🔭 Hard-working Software Developer. Has proven React, JavaScript, HTML, CSS, and REST API consumption skills for developing elegant and responsive applications. Used versioning tools and Agile Methodologies for team project management. Has notions of Test-Driven Development and Back-end.
 - 🌱 I’m currently learning **PHP**.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
 - 📫 How to reach me: https://linkedin.com/in/sarahrubia
               
 <hr>
@@ -26,6 +25,10 @@ Hello, I'm Sarah Rúbia.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+
+<hr>
+
+[![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=sarahrubia&theme=blue-green)](https://github.com/sarahrubia/github-readme-stats)
 
 <hr>
 
