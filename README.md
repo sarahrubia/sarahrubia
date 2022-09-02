@@ -4,7 +4,7 @@ Hello, I'm Sarah Rúbia.
 ✊🏾 🌈 ♀
 
 
-- 🔭 I’m currently working on a career transition to become a **Full Stack Web Developer**.
+- 🔭 Hard-working Software Developer. Has proven React, JavaScript, HTML, CSS, and REST API consumption skills for developing elegant and responsive applications. Used versioning tools and Agile Methodologies for team project management. Has notions of Test-Driven Development and Back-end.
 - 🌱 I’m currently learning **PHP**.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I watched seasons 1 to 4 of Grey's Anatomy 4 times. Now that the show has 18 seasons, I can't do that.
@@ -27,6 +27,7 @@ Hello, I'm Sarah Rúbia.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 
+<hr>
 
 # Courses and Workshops
 
@@ -48,21 +49,6 @@ Hello, I'm Sarah Rúbia.
 <hr>
 
 
-#### Hoping to learn with everyone! Let's code, shall we?
+#### Hoping to learn with everyone! Let's code!
 
 ![Cat coding](https://media1.giphy.com/media/pOKrXLf9N5g76/giphy.gif)
-  
-<!--
-**sarahrubia/sarahrubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
