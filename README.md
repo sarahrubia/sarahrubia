@@ -5,7 +5,7 @@ Hello, I'm Sarah Rúbia.
 
 
 - 🔭 Hard-working Software Developer. Has proven React, JavaScript, HTML, CSS, and REST API consumption skills for developing elegant and responsive applications. Used versioning tools and Agile Methodologies for team project management. Has notions of Test-Driven Development and Back-end.
-- 🌱 I’m currently learning **PHP**.
+- 🌱 I’m currently learning **React Native**.
 - 😄 Pronouns: she/her.
 - 📫 How to reach me: https://linkedin.com/in/sarahrubia
 
